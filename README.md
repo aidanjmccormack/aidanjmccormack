@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @aidanjmccormack
+- 👀 I’m interested in my first job in a technical field.
+- 🌱 I’m currently learning Swift, AWS
+- 📫 How to reach me: aidanmc234@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a type one diabetic and I use algorithims to monitor my blood sugar every single day.
